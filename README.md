@@ -1,1 +1,1 @@
-# reduced repository for distribution
+# useful project files
