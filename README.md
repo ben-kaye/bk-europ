@@ -1,1 +1,1 @@
-# bk-europ
+# reduced repository for distribution
